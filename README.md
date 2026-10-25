@@ -1,7 +1,3 @@
-# CS-370-Pirate-Agent
-Deep Q-learning agent that learns to find treasure in a maze, built with Keras for SNHU CS 370
-
-
 # Pirate Intelligent Agent
 
 CS 370 at SNHU
@@ -10,7 +6,7 @@ This project trains a pirate to find the treasure in a maze before the player do
 
 ## Files
 
-- `TreasureHuntGame.ipynb` - the notebook with all my code and results
+   - `RodriguezPerez_Bryan_ProjectTwo.ipynb` - the notebook with all my code and results
 
 ## What I was given and what I built
 
